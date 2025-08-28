@@ -22,8 +22,6 @@ The foundation of our recipe generator is a rich, diverse dataset of recipes. We
 
 Beautiful Soup: For parsing HTML and XML documents to extract recipe information.
 
-Selenium: For automating web browser interaction to handle dynamic JavaScript-heavy websites.
-
 2. Data Preprocessing
 Raw data is never clean. To ensure our models receive high-quality input, we applied a rigorous preprocessing pipeline:
 
