@@ -31,8 +31,6 @@ Feature Selection: Identified the most relevant textual features (ingredients, t
 
 Normalization: Standardized all text to lowercase and removed punctuation to maintain consistency.
 
-Tokenization: Broke down ingredient lists and recipe instructions into individual words (tokens), preparing the text for vectorization.
-
 3. Machine Learning Model
 For our baseline approach, we selected a classic and highly effective text classification model.
 
